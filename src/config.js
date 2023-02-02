@@ -1,5 +1,5 @@
 export const config = {
-    api: "https://stackoverflowclone-jddy.onrender.com",
+    api: " https://password-reset-backend-six.vercel.app",
 }
 
 //for local    http://localhost:4000
